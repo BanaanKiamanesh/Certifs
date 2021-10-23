@@ -1,6 +1,6 @@
 # Mathematics for Machine Learning Coursera
 
-***Certifications for my courses in Mathematics for Machine Learning in Coursera!***
+## ***Certifications for my courses in Mathematics for Machine Learning in Coursera!***
 
 All can be validated by clicking on them! 
 1. [Linear Algebra!](https://www.coursera.org/verify/BB2NN94SPZJK)
