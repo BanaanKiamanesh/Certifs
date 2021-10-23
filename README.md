@@ -1,2 +1,5 @@
-# Mathematics-for-Machine_Learning-Coursera
-Certifications for my course in Mathematics for Machine Learning in Coursera!
+# Mathematics for Machine Learning Coursera
+
+***Certifications for my courses in Mathematics for Machine Learning in Coursera!***
+
+![](images/Certif.jpg)
