@@ -2,8 +2,8 @@
 
 ### ***My Certified Skills***
 
-Click for Validation! 
-
+> ### Mathematical Psychology: Deep Learning and Neural Networks 
+![](images/LoopAcademy.jpg)
 
 > ### Mathematics for Machine Learning Specialization by Coursera!
 1. [Linear Algebra!](https://www.coursera.org/verify/BB2NN94SPZJK)
