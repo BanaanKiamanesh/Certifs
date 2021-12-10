@@ -1,4 +1,4 @@
-# This is a Repo for all my Courses and their Material and Certificates!
+# This is a Repo for all my Certificates!
 
 ## Mathematical Psychology: Deep Learning and Neural Networks - Shahid Beheshti University
 ![](images/LoopAcademy.jpg)
