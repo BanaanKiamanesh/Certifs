@@ -14,3 +14,7 @@
 
 ## MATLAB Programming for Engineers and Scientists Specialization - Coursera
 1. [Introduction to Programming with MATLAB!](https://www.coursera.org/verify/URCJYST93VND)
+
+
+## Signal Processing: EEG Signals 
+![](images/EEG_Signal_Processing.jpg)
