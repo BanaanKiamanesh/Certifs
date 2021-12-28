@@ -1,4 +1,4 @@
-# My Certificates!
+# My Certificates
 ___
 ## Mathematical Psychology: Deep Learning and Neural Networks - Shahid Beheshti University
 ![](images/LoopAcademy.jpg)
