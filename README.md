@@ -19,6 +19,9 @@ ___
 
 ![](images/MatlabPro.jpg)
 ___
+## Practical Data Science with MATLAB Specialization - Mathworks
+1. [Exploratory Data Analysis with MATLAB](https://www.coursera.org/verify/DKRCEU7T847Y)
+___
 ## Signal Processing: EEG Signals
 ![](images/EEG_Signal_Processing.jpg)
 ___
