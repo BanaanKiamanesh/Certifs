@@ -17,12 +17,10 @@ ___
 3. [Introduction to Data, Signal, and Image Analysis with MATLAB](https://www.coursera.org/verify/FL2UVRR6K4EJ)
 4. ***[Full Course Certif](https://www.coursera.org/verify/specialization/3G5HH2V27MDP)***
 
-![](images/MatlabPro.jpg){
-   : target = "_blank"
-}
+![](images/MatlabPro.jpg)
 ___
 ## Practical Data Science with MATLAB Specialization - Mathworks
-1. [Exploratory Data Analysis with MATLAB](https://www.coursera.org/verify/DKRCEU7T847Y)
+1. <a href="https://www.coursera.org/verify/DKRCEU7T847Y" target="_blank">Exploratory Data Analysis with MATLAB</a>
 ___
 ## Signal Processing: EEG Signals
 ![](images/EEG_Signal_Processing.jpg)
