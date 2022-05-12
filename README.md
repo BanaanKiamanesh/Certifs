@@ -1,5 +1,8 @@
 # My Certificates
 ___
+## BCI & Neurotechnologies Spring School - g.tec Medical Engineering
+![](images/BCI_springschool_certificate.jpg)
+___
 ## Mathematical Psychology: Deep Learning and Neural Networks - Shahid Beheshti University
 ![](images/LoopAcademy.jpg)
 ___
@@ -24,6 +27,6 @@ ___
    : target = "_blank"
 }
 ___
-## Signal Processing: EEG Signals
+## Signal Processing: EEG Signals - onlinebme
 ![](images/EEG_Signal_Processing.jpg)
 ___
