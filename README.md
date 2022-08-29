@@ -1,5 +1,8 @@
 # My Certificates
 ___
+## Robotics Specialization - University of Pennsylvania
+1. [Aerial Robotics](https://www.coursera.org/verify/R7LU8KLFG466)
+___
 ## BCI & Neurotechnologies Spring School - g.tec Medical Engineering
 ![](images/BCI_springschool_certificate.jpg)
 ___
@@ -23,9 +26,7 @@ ___
 ![](images/MatlabPro.jpg)
 ___
 ## Practical Data Science with MATLAB Specialization - Mathworks
-1. [Exploratory Data Analysis with MATLAB](https://www.coursera.org/verify/DKRCEU7T847Y){
-   : target = "_blank"
-}
+1. [Exploratory Data Analysis with MATLAB](https://www.coursera.org/verify/DKRCEU7T847Y)
 ___
 ## Signal Processing: EEG Signals - onlinebme
 ![](images/EEG_Signal_Processing.jpg)
