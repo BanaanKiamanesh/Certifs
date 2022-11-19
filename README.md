@@ -2,6 +2,7 @@
 ___
 ## Robotics Specialization - University of Pennsylvania
 1. [Aerial Robotics](https://www.coursera.org/verify/R7LU8KLFG466)
+5. [Estimation and Learning](https://www.coursera.org/verify/QVFMDTQVWRCT)
 ___
 ## BCI & Neurotechnologies Spring School - g.tec Medical Engineering
 ![](images/BCI_springschool_certificate.jpg)
